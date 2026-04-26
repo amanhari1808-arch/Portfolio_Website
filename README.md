@@ -63,13 +63,13 @@ Graduating in 2026 | CGPA: 8.6
 
 ## Portfolio
 
-(Add your live portfolio link here after deployment)
+Live (https://amanhari1808-arch.github.io/portfolio/)
 
 ---
 
 ## Contact
 
-Email: amanhari9150@gmail.com  
+Email: amanhari.data@gmail.com  
 LinkedIn: https://www.linkedin.com/in/aman-h-data-analyst/  
 GitHub: https://github.com/amanhari1808-arch  
 
