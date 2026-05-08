@@ -63,7 +63,7 @@ Graduating in 2026 | CGPA: 8.6
 
 ## Portfolio
 
-Live (https://amanhari1808-arch.github.io/portfolio/)
+Live (https://amanhari1808-arch.github.io/Portfolio_Website/)
 
 ---
 
